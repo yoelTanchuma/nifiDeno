@@ -99,7 +99,7 @@
         "bucketId" : "default",
         "flowId" : "demo2Flow",
         "storageLocation" : "git@github.com:yoelTanchuma/nifiDeno.git",
-        "version" : "8cb339bc37aafa7d890d364cc9b0791e9ab781ac"
+        "version" : "91a4f2c2a2aaf2bb1475dcdfc18776bbea1ea6ba"
       }
     } ],
     "processors" : [ ],
